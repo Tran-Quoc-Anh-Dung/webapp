@@ -1,0 +1,16 @@
+/target/
+/.idea/
+/.settings/
+/.project
+/.classpath
+*.class
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Cursor / IDE
+.cursor/
+.cursorignore
+*.code-workspace
+
